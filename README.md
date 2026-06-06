@@ -16,7 +16,7 @@ Basic Video Editing
 Portfolio Website
 
 Visit my portfolio here:
-https://pur-nima.github.io/Purneema_portfolio/
+https://pur-nima.github.io/Portfolio/
 
 Contact
 Feel free to connect for collaborations, freelance work, or creative opportunities.
